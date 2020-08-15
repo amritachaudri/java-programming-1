@@ -36,7 +36,7 @@ class Circle {
     }
 }
 //Driver class
-public class TestCircle {
+public class Circle1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //Creating the instance1
